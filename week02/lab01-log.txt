@@ -1,0 +1,16 @@
+  226  python3 -m venv .venv
+  227  ls
+  228  ls -a
+  229  source .venv/bin/activate
+  230  which python3
+  231  pip list
+  232  pip install requirements
+  233  pip install requests
+  234  pip list
+  235  deactivate
+  236  which python3
+  237  man ls
+  238  man man
+  239  cd cod
+  240  history
+  241  python3
